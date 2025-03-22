@@ -20,37 +20,116 @@
 
 ## Tools & Skills
 
+
 ### 1. Robotics & Embedded
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Note: 'ros' is in the skill-icons list, as is 'arduino', 'raspberrypi', etc. -->
-    <img src="https://skillicons.dev/icons?i=cpp,ros,arduino,raspberrypi,linux,cmake,qt" />
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+  <a href="https://www.ros.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ros" alt="ROS" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" />
+  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
   </a>
 </p>
 
 ### 2. ML & MLOps & Data Science
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Combining machine learning libraries & MLOps tools -->
-    <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda,sklearn,tensorflow,docker,githubactions,r,azure,opencv" />
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=r" alt="R" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
   </a>
 </p>
 
 ### 3. Web Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Show the key web dev icons you regularly use or plan to use -->
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,html,css,tailwind,js,figma,firebase" />
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   </a>
 </p>
 
 ### 4. Other Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Additional icons you want to highlight (e.g., figma, firebase, obsidian, azure, etc.) -->
-    <img src="https://skillicons.dev/icons?i=obsidian,matlab,electron,processing" />
+  <a href="https://obsidian.md/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" />
+  </a>
+  <a href="https://processing.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=processing" alt="Processing" />
   </a>
 </p>
+
 
 ### 5. CAD & Visualization
 <p>
@@ -72,14 +151,42 @@
     />
   </a>
 </p>
+## Tools & Skills
 
 ### 6. Currently Learning
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Tools you're exploring but not yet fully proficient in -->
-    <img src="https://skillicons.dev/icons?i=nestjs,fastapi,threejs,terraform,supabase,nuxtjs,mysql,prisma,vite,vercel" />
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="three.js" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
   </a>
 </p>
+
 
 ---
 
