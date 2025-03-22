@@ -20,7 +20,6 @@
 
 ## Tools & Skills
 
-
 ### 1. Robotics & Embedded
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
@@ -151,7 +150,6 @@
     />
   </a>
 </p>
-## Tools & Skills
 
 ### 6. Currently Learning
 <p align="left">
@@ -190,6 +188,8 @@
 
 ---
 
+## Competitions & Certifications
+
 ### Data Science Competitions
 <p>
   <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer">
@@ -225,7 +225,6 @@
     />
   </a>
 </p>
-
 ---
 
 ## GitHub Stats
