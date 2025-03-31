@@ -229,22 +229,10 @@
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Qu0rise&show_icons=true&theme=radical&hide_rank=true&card_width=420"
-        alt="Qu0rise's GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu0rise&layout=compact&theme=dark&card_width=420"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center"> 
+  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu0rise&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=Qu0rise&theme=onedark&show_icons=true" />
+</p>
 
 ---
 
