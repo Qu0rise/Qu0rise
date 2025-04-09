@@ -80,18 +80,30 @@
 </p>
 
 ### 3. Web Development
+
+#### 3-1. Frameworks & Libraries
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  </a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  </a>
+</p>
+
+#### 3-2. Core Languages & Styling
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -102,16 +114,58 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
+</p>
+
+#### 3-3. Package Managers & Transpilers
+<p align="left">
+  <!-- Package Managers -->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" />
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" />
+  </a>
+
+  <!-- Transpilers -->
+  <a href="https://babeljs.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=babel" alt="Babel" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=rust" alt="SWC (Rust-based)" title="SWC (Rust-based)" />
+</p>
+
+#### 3-4. Bundlers & Build Tools
+<p align="left">
+  <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" />
+  </a>
+  <a href="https://rollupjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=rollupjs" alt="Rollup" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Turbopack (Rust-based)" title="Turbopack (Rust-based)" />
+  <a href="https://bun.sh/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bun" alt="Bun" />
+  </a>
+</p>
+
+#### 3-5. Backend as a Service
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   </a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  </a>
 </p>
+
 
 ### 4. Other Tools
 <p align="left">
