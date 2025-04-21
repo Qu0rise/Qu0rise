@@ -4,7 +4,7 @@
   "title": "3D Contribution",
   "subtitle": "made with github-profile-3d-contrib",
   "animation": true,
-  "backgroundColor": "#ffffff",
+  "backgroundColor": "#0d1117",
   "contribColors": ["#d0e6a5", "#8ecf69", "#52af3f", "#2d7e2b"],
   "darkMode": {
     "backgroundColor": "#0d1117",
