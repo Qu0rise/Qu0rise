@@ -283,13 +283,14 @@
 </p>
 ---
 
+<!--  
 ## GitHub Stats
 
 <p align="center"> 
-<!--   <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu0rise&layout=compact&show_icons=true&theme=onedark" /> -->
-<!--   <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=Qu0rise&theme=onedark&show_icons=true" /> -->
+ <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu0rise&layout=compact&show_icons=true&theme=onedark" /> 
+ <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=Qu0rise&theme=onedark&show_icons=true" /> 
 </p>
-
+-->
 ---
 
 <p align="center">
