@@ -8,9 +8,9 @@
 </p>
 
 ---
-<!--![](./profile-3d-contrib/profile-night-green.svg)
+<!--
+![](./profile-3d-contrib/profile-night-green.svg)
 
-<!--  
 ## GitHub Stats
 
 <p align="center"> 
