@@ -3,7 +3,7 @@
 <p align="center">
   <em>
     Robotics | Control | Embedded Systems | Machine Learning | MLOps & Data Science | 
-    Web Dev (in progress)
+    Web Dev
   </em>
 </p>
 
@@ -28,7 +28,7 @@
 ## About
 - **Robotics & Embedded**: C++, ROS, Arduino, Raspberry Pi, Linux  
 - **ML & AI**: Python, PyTorch, scikit-learn, TensorFlow, MLOps  
-- **Web & Backend**(learning...): Node.js, React, Next.js, NestJS, FastAPI  
+- **Web & Backend**: Node.js, React, Next.js, NestJS, FastAPI  
 - **CAD Tools**: SOLIDWORKS, Fusion 360, NVIDIA Omniverse, iClone8, CC4  
 - **Currently Learning**: three.js, Terraform, Supabase, Nuxt.js, MySQL, etc.
 
