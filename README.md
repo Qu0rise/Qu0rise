@@ -26,11 +26,11 @@
 
 
 ## About
-- **Robotics & Embedded**: C++, ROS, Arduino, Raspberry Pi, Linux  
-- **ML & AI**: Python, PyTorch, scikit-learn, TensorFlow, MLOps  
-- **Web & Backend**: Node.js, React, Next.js, NestJS, FastAPI  
-- **CAD Tools**: SOLIDWORKS, Fusion 360, NVIDIA Omniverse, iClone8, CC4  
-- **Currently Learning**: three.js, Terraform, Supabase, Nuxt.js, MySQL, etc.
+- **Robotics & Embedded(good at)**: C++, ROS, Arduino, Raspberry Pi, Linux..
+- **ML & AI(good at)**: Python, PyTorch, scikit-learn, TensorFlow, MLOps..  
+- **Web & Backend**: Node.js, React, Next.js, NestJS, FastAPI, GCP..  
+- **CAD Tools(skilled at)**: SOLIDWORKS, Fusion 360, NVIDIA Omniverse, iClone8, CC4..  
+- **Currently Learning**: three.js, Terraform, Supabase, Nuxt.js, Cloud Run.. etc.
 
 ---
 
